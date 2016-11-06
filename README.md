@@ -7,4 +7,4 @@ Simple script for adding spacers into Plank dock.
 
     git clone git://github.com/rpeshkov/plank-spacer.git ~/bin/plank-spacer
     cd ~/bin/plank-spacer/
-    ./plank-spacer
+    ./plank-spacer.sh
